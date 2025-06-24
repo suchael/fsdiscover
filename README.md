@@ -2,7 +2,7 @@
 
 ## Overview
 
-**FSdiscover** is a cross-platform remote control and monitoring tool that lets users operate their computer from a mobile phone or another device over a network. I built this project as part of my exploration into remote system control and user accessibility. It solves the problem of physical inaccessibility by enabling real-time mouse and keyboard control, remote typing with a virtual keypad, and lightweight system monitoring. Ideal for developers, sysadmins, or anyone needing hands-on control of their desktop from anywhere—without relying on heavy remote desktop software.
+**FSdiscover** Control your PC from your mobile phone over HTTP network. I built this project as part of my exploration into remote system control and user accessibility. It solves the problem of physical inaccessibility by enabling real-time mouse and keyboard control, remote typing with a virtual keypad, and lightweight system monitoring. Ideal for developers, sysadmins, or anyone needing hands-on control of their desktop from anywhere—without relying on heavy remote desktop software.
 
 FSdiscover is cross-platform and works on Linux, Windows, and macOS. It integrates smoothly into your desktop environment and is accessible via a simple command-line interface or desktop launcher.
 
