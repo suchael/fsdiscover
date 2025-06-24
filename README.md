@@ -10,7 +10,8 @@ FSdiscover is cross-platform and works on Linux, Windows, and macOS. It integrat
 
 ## 📸 Preview
 
-<img src="./public/fsdiscover.jpg" alt="Screenshot" style="width=300; border-radius: 10px;" />
+<img src="./public/fsdiscover.jpg" alt="Screenshot" style="width: 300px; border-radius: 10px;" />
+
 
 ## Features
 
