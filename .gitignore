@@ -1,0 +1,6 @@
+node_modules
+*lock.json
+*.log
+packager-lock.json
+.env
+auth.config.json
